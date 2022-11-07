@@ -1,4 +1,10 @@
 /vivado
-/modelsim
+/modelsim/work
+/modelsim/glbl.v
+/modelsim/vsim.wlf
+/modelsim/wave.do
+/modelsim/work.cr.mti
+
+/modelsim/work.mpf
 !/modelsim/tb_work.v
 !/modelsim/do.tcl
