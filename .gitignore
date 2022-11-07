@@ -1,0 +1,4 @@
+/vivado
+/modelsim
+!/modelsim/tb_work.v
+!/modelsim/do.tcl
